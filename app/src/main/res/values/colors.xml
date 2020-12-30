@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48211c</color>
+    <color name="colorPrimaryDark">#80382F</color>
+    <color name="colorAccent">#000</color>
+    <color name="brown_color">#48211c</color>
+    <color name="yellow">#ffeb3b</color>
+    <color name="light_blue">#e5f6fe</color>
+    <color name="mitti_color">#eee1d3</color>
+    <color name="pinkcolor">#fff4f2</color>
+    <color name="mehnidi_color">#614a26</color>
+    <color name="color_toolbar_orange">#c77843</color>
+
+    <color name="line_color">#D1CFCF</color>
+    444343
+    <color name="black_light">#444343</color>
+
+</resources>
